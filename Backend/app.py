@@ -12,7 +12,7 @@ collection = db["users"]
 # Home Route
 @app.route('/')
 def home():
-    return "Backend Updated Successfully 🚀🔥"
+    return "Backend chaluuuuuuuuuuuuuuuuu 🚀🔥"
 
 # API Route
 @app.route('/api')
